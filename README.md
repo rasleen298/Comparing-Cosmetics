@@ -16,4 +16,4 @@ Preprocessing the ingredient lists is done via word embedding, then visualize in
 
 Cosmetics.csv is the dataset provided in my repo, you can preprocess it according to your needs and just run the Jupyter Notebook.
 
-If any issues, write to me under the Isdues section.
+If any issues, write to me under the Issues section.
