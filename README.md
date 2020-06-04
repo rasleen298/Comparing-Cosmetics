@@ -8,8 +8,12 @@ This project help us predict which products may be a great buy for us. I have cr
 Preprocessing the ingredient lists is done via word embedding, then visualize ingredient similarity using the Dimensionality-Reduction technique called t-SNE and the visualization is done using Bokeh.
 
 ## Instructions
-Do the necessary installation for the Python package,
-Install Bokeh 
+# Do the necessary installation for the Python package,
+
+# Install Bokeh 
+
 ``` pip3 install bokeh ```
+
 Cosmetics.csv is the dataset provided in my repo, you can preprocess it according to your needs and just run the Jupyter Notebook.
+
 If any issues, write to me under the Isdues section.
