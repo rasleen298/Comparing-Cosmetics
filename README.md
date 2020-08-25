@@ -1,7 +1,7 @@
 # Comparing-Cosmetics
 A Data Science project for Comparing cosmetics using their ingredients list for making it easy to choose a better product, using Machine Learning and Natural Language Processing.
 
-Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret.
+We know the information we need is on the back of each product, but it's really hard to interpret.
 
 This project help us predict which products may be a great buy for us. I have created a Content-based Recommendation System where the 'content' will be the chemical components of cosmetics.
 
